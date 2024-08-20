@@ -20,4 +20,13 @@ This portfolio is built using a Start Bootstrap theme. The theme is a clean, mod
 
 This project is based on the Start Bootstrap - Resume theme, which is licensed under the MIT License.
 
-```Thank you for visiting my portfolio. I look forward to connecting with you!```
+## Contact
+
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me:
+
+- **LinkedIn:** [João Coquim](https://www.linkedin.com/in/joaocoquim/)
+- **Email:** [joaocoquim@gmail.com](mailto:joaocoquim@gmail.com)
+
+---
+
+```Thank you for checking out my portfolio. I’m always eager to connect with fellow developers, potential collaborators, and anyone interested in the tech industry!```
