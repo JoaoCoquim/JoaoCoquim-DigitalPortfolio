@@ -2,6 +2,10 @@
 
 Welcome to my portfolio! I'm João Coquim, a passionate software developer based in Portugal. Here, you'll find an overview of my skills, my experience and education. Feel free to explore and get in touch if you have any questions or opportunities for collaboration.
 
+## Live Demo
+
+You can view the live version [here](https://joaocoquim.netlify.app/).
+
 ## About Me
 
 I’m a software developer with a keen interest in creating innovative solutions and continuous improvement. My hobbies include video games, anime, TV series, movies and travel. I’m always excited to discuss these topics and share insights on development and technology.
